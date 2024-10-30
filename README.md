@@ -1,4 +1,4 @@
-[![MasterHead](https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif)]
+![MasterHead](https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif)
 <h1 align="center">Hi 👋, I'm Himanshu</h1>
 <h3 align="center">An Aspiring Web Developer</h3>
 
